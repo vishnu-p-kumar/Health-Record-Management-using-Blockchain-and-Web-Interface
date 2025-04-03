@@ -24,7 +24,9 @@ python app.py
 - Encrypted data storage
 - Role-based access control
 - Immutable audit trail
+
 ## Dashboard
+
 ##login as doctor
 
 ![Screenshot 2025-04-02 183022](https://github.com/user-attachments/assets/8a499396-35dd-41c7-9ea7-44d380849540)
