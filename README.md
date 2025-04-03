@@ -35,3 +35,13 @@ python app.py
 
 ![Screenshot 2025-04-02 183035](https://github.com/user-attachments/assets/faaa446b-1d92-48fb-ad15-c9f711e23281)
 
+``` Doctor Dashboard ```
+
+![image](https://github.com/user-attachments/assets/80ad2208-b285-412f-ae55-acdfa17b657d)
+
+``` Patient Dashboard ```
+
+![image](https://github.com/user-attachments/assets/12c675c9-3fb9-414e-aa32-1ad9cddae6b5)
+
+
+
