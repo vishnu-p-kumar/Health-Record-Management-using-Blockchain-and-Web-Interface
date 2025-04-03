@@ -27,11 +27,11 @@ python app.py
 
 ## Dashboard
 
-``` login as doctor ```
+``` login as Patient ```
 
 ![Screenshot 2025-04-02 183022](https://github.com/user-attachments/assets/8a499396-35dd-41c7-9ea7-44d380849540)
 
-``` login as patient```
+``` login as Doctor```
 
 ![Screenshot 2025-04-02 183035](https://github.com/user-attachments/assets/faaa446b-1d92-48fb-ad15-c9f711e23281)
 
